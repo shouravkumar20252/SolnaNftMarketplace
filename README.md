@@ -152,5 +152,6 @@ NEXT_PUBLIC_NFT_LISTING_FEE = 1
 
 ## Contributing:
 
+
 Contributions are welcome! Please open an issue to discuss proposed changes or submit a pull request.
 
