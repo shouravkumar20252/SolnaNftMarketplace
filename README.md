@@ -12,13 +12,7 @@ Build and Deploy a Full-Stack Solana Blockchain NFT Marketplace DApp with Next.j
    URL: https://code.visualstudio.com/download
 ```
 
-#### NodeJs & NPM Version
 
-```
-  NodeJs: v18.12.1 || LATEST
-  NPM: 8.19.2 || LATEST
-  URL: https://nodejs.org/en/download
-``
 
 #### Install Vs Code Editor
 ```
